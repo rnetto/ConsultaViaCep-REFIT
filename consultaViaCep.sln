@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "consultaViaCepRefit", "consultaViaCepRefit.csproj", "{488781AF-5A37-4918-8323-763E18CD30AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{488781AF-5A37-4918-8323-763E18CD30AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{488781AF-5A37-4918-8323-763E18CD30AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{488781AF-5A37-4918-8323-763E18CD30AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{488781AF-5A37-4918-8323-763E18CD30AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CC0A597-F539-4172-88B8-4D0A7A14305C}
+	EndGlobalSection
+EndGlobal

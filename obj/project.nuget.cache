@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cbu0Q/Vx+yPCszSiP3WJ5mSBTCWhe+geGWxmU3T/j1dcyQjGITYuC4ZBsBMA0TozQkz3qZeL3/2qgGJKoy37Fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RNetto\\source\\repos\\consultaViaCep\\consultaViaCepRefit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RNetto\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\RNetto\\.nuget\\packages\\refit\\6.0.38\\refit.6.0.38.nupkg.sha512",
+    "C:\\Users\\RNetto\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
